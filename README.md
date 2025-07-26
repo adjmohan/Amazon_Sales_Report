@@ -15,7 +15,13 @@ This analysis dives into the dataset to answer critical questions:
   * 💰 **Customer Behavior:** What is the average order value (AOV) and how does it trend over time?
 
 -----
+### 💾 Dataset
 
+The dataset used for this analysis is Amazon Sale Report.csv.
+
+Note: The dataset is provided within a .zip archive. You must unzip the file first to access the Amazon Sale Report.csv before running the project scripts.
+
+ -----
 ### 🛠️ Tools Used
 
   * **Python**
